@@ -19,7 +19,7 @@ body{
     font-family: "Ubuntu";
     color: #000;
     animation: rotate 6s infinite alternate linear;
-    background-color: rgb(237, 250, 240);
+    background-color: white;
 }
 
 .login-card{
